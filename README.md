@@ -1,27 +1,11 @@
 # Pokedex
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+O objetivo deste app foi criar uma pokedex consumindo uma API externa, neste caso a [PokéAPI](https://pokeapi.co/), e assim mostrar uma lista de pokemons com suas respectivas imagens. O app permite a pesquisa de pokemons, conforme o usuário digita o nome desejado, e o acesso aos detalhes de cada pokemon, com suas estatísticas completas.
 
-## Development server
+## Acesso
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Acesse o app pela sua página do GitHub Pages através deste [link](https://victor-stefano.github.io/pokedex/).
 
-## Code scaffolding
+## Informações
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 16.2.3.
